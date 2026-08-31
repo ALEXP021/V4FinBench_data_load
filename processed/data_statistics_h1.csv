@@ -1,0 +1,2 @@
+X_train_shape,X_test_shape,y_train_counts,y_test_counts,feature_count,train_bankruptcy_rate,test_bankruptcy_rate,null_count
+"(885503, 135)","(221376, 135)","{0.0: 787700, 1.0: 2862}","{0.0: 208800, 1.0: 725}",135,0.36202094206400004,0.34602076124567477,0
